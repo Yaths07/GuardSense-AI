@@ -1,0 +1,5 @@
+gradio
+tensorflow
+tf_keras
+Pillow
+numpy
