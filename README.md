@@ -1,5 +1,3 @@
-# GuardSense-AI
-A responsive, AI-powered drowsiness detection system with real-time visual and audio alerts.
 # 🛡️ GuardSense AI 
 ### Proactive Fatigue Monitoring System
 
@@ -58,4 +56,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 Developed as a proactive safety solution for modern drivers.
 
----
+---<img width="1351" height="630" alt="GuardSense-AI_demo" src="https://github.com/user-attachments/assets/346948bb-2a20-4535-afcc-d071e8ab42a0" />
