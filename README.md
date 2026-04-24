@@ -28,39 +28,34 @@ GuardSense AI is a high-performance, web-based application designed to monitor d
 ```bash
 git clone [https://github.com/Yaths07/GuardSense-AI.git](https://github.com/Yaths07/GuardSense-AI.git)
 cd GuardSense-AI
+```
 
-2. Set Up Environment
+### 2. Set Up Environment
 Ensure you have Python 3.8+ installed. It is recommended to use a virtual environment.
 
-Bash
+```Bash
 pip install -r requirements.txt
+```
 
-3. Required Files
+### 3. Required Files
 Ensure the following files are in your project root:
-
 keras_model.h5 - The trained model weights.
-
 labels.txt - Classification labels (e.g., "Normal", "Drowsy").
-
 alert.mp3 - The critical alarm sound file.
 
-4. Run the Application
-Bash
+### 4. Run the Application
+```Bash
 python app.py
+```
 
-⚙️ Parameters & Usage
+### ⚙️ Parameters & Usage
 Blink Tolerance: Adjust this slider to change how many frames of eye closure are required to trigger an alarm.
-
 Webcam Permissions: Ensure your browser has camera access enabled.
-
 Audio Note: Click anywhere on the dashboard after loading to enable browser audio playback for the alerts.
 
-📜 License
+### 📜 License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 Developed as a proactive safety solution for modern drivers.
 
-
 ---
-
-<img width="1351" height="630" alt="image" src="https://github.com/user-attachments/assets/c7d8a38e-c067-4891-800c-34b288c26f67" />
