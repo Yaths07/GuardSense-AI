@@ -46,12 +46,12 @@ alert.mp3 - The critical alarm sound file.
 python app.py
 ```
 
-### ⚙️ Parameters & Usage
+## ⚙️ Parameters & Usage
 Blink Tolerance: Adjust this slider to change how many frames of eye closure are required to trigger an alarm.
 Webcam Permissions: Ensure your browser has camera access enabled.
 Audio Note: Click anywhere on the dashboard after loading to enable browser audio playback for the alerts.
 
-### 📜 License
+## 📜 License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 Developed as a proactive safety solution for modern drivers.
